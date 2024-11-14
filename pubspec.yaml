@@ -1,0 +1,81 @@
+name: agape_s_application1
+description: A new Flutter project.
+version:  3.4.3
+environment: 
+  sdk:  '>=2.17.0 <4.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  shared_preferences: ^2.0.6
+  firebase_storage: ^12.0.1
+  sizer: ^2.0.14
+  image_picker: ^1.1.2
+  get: ^4.6.1
+  get_storage: ^2.1.1
+  cached_network_image: ^3.3.0
+  flutter_svg: ^2.0.9
+  pin_code_fields: ^8.0.1
+  intl: ^0.19.0
+  firebase_core: ^3.1.1
+  firebase_analytics: ^11.0.1
+  firebase_auth: ^5.1.1
+  firebase_app_check: ^0.3.0+2
+  cloud_firestore: ^5.0.1
+  uuid: ^4.4.0
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  collection: ^1.19.0
+  http_parser: ^4.1.0
+  leak_tracker: ^10.0.5
+  leak_tracker_flutter_testing: ^3.0.5
+  material_color_utilities: ^0.12.0
+  meta: ^1.15.0
+  rxdart: ^0.28.0
+  test_api: ^0.7.2
+  vm_service: ^14.2.4
+
+dependency_overrides:
+  collection: ^1.19.0
+  http_parser: ^4.1.0
+  leak_tracker: ^10.0.5
+  leak_tracker_flutter_testing: ^3.0.5
+  material_color_utilities: ^0.12.0
+  meta: ^1.15.0
+  rxdart: ^0.28.0
+  test_api: ^0.7.2
+  vm_service: ^14.2.4
+
+flutter: 
+  uses-material-design: true
+  assets: 
+    - assets/images/default.png
+    - assets/
+    - assets/images/
+  fonts: 
+    - family: Raleway
+      fonts: 
+        - asset: assets/fonts/RalewayBold.ttf
+          weight: 700
+        - asset: assets/fonts/RalewaySemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/RalewayMedium.ttf
+          weight: 500
+    - family: Nunito Sans
+      fonts: 
+        - asset: assets/fonts/NunitoSansLight.ttf
+          weight: 300
+        - asset: assets/fonts/NunitoSansBold.ttf
+          weight: 700
+        - asset: assets/fonts/NunitoSansRegular.ttf
+          weight: 400
+    - family: Poppins
+      fonts: 
+        - asset: assets/fonts/PoppinsMedium.ttf
+          weight: 500
+    - family: DM Sans
+      fonts: 
+        - asset: assets/fonts/DMSansBold.ttf
+          weight: 700
+        - asset: assets/fonts/DMSansMedium.ttf
+          weight: 500

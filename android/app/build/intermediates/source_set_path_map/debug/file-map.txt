@@ -1,0 +1,15 @@
+com.agapesapplication.app-browser-1.4.0-0 C:\Users\ho\.gradle\caches\transforms-3\0dbc892656f079594d30bd401f68c951\transformed\browser-1.4.0\res
+com.agapesapplication.app-jetified-firebase-common-20.2.0-1 C:\Users\ho\.gradle\caches\transforms-3\11874b5ee8b646ab76b2174f0f2a454c\transformed\jetified-firebase-common-20.2.0\res
+com.agapesapplication.app-coordinatorlayout-1.0.0-2 C:\Users\ho\.gradle\caches\transforms-3\16f7babd8ed4ec78b3535e437816bcd5\transformed\coordinatorlayout-1.0.0\res
+com.agapesapplication.app-jetified-play-services-base-17.1.0-3 C:\Users\ho\.gradle\caches\transforms-3\490214588fb76761c2f7f869d819f83f\transformed\jetified-play-services-base-17.1.0\res
+com.agapesapplication.app-jetified-play-services-basement-18.1.0-4 C:\Users\ho\.gradle\caches\transforms-3\6bbd135d103664d5213c00630ce6d0c9\transformed\jetified-play-services-basement-18.1.0\res
+com.agapesapplication.app-core-1.2.0-5 C:\Users\ho\.gradle\caches\transforms-3\def435206a6b871c9514c08bd524f091\transformed\core-1.2.0\res
+com.agapesapplication.app-RES-6 C:\project\Kariakoo_Connect_app\android\app\build\RES\processDebugGoogleServices
+com.agapesapplication.app-pngs-7 C:\project\Kariakoo_Connect_app\android\app\build\generated\res\pngs\debug
+com.agapesapplication.app-resValues-8 C:\project\Kariakoo_Connect_app\android\app\build\generated\res\resValues\debug
+com.agapesapplication.app-rs-9 C:\project\Kariakoo_Connect_app\android\app\build\generated\res\rs\debug
+com.agapesapplication.app-mergeDebugResources-10 C:\project\Kariakoo_Connect_app\android\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.agapesapplication.app-mergeDebugResources-11 C:\project\Kariakoo_Connect_app\android\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.agapesapplication.app-merged_res-12 C:\project\Kariakoo_Connect_app\android\app\build\intermediates\merged_res\debug
+com.agapesapplication.app-debug-13 C:\project\Kariakoo_Connect_app\android\app\src\debug\res
+com.agapesapplication.app-main-14 C:\project\Kariakoo_Connect_app\android\app\src\main\res

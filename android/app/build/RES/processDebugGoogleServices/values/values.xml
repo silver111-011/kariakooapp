@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">619371128320-ss8m87frpo13sgfhiif171etat0uc8hj.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">619371128320</string>
+    <string name="google_api_key" translatable="false">AIzaSyAaTZAR9Hol375im199ZtwQBpcogMTNp40</string>
+    <string name="google_app_id" translatable="false">1:619371128320:android:ba6c129751b03602df1ae5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAaTZAR9Hol375im199ZtwQBpcogMTNp40</string>
+    <string name="google_storage_bucket" translatable="false">kariakoo-connect.appspot.com</string>
+    <string name="project_id" translatable="false">kariakoo-connect</string>
+</resources>

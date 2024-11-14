@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "619371128320",
+    "project_id": "kariakoo-connect",
+    "storage_bucket": "kariakoo-connect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619371128320:android:ba6c129751b03602df1ae5",
+        "android_client_info": {
+          "package_name": "com.agapesapplication.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619371128320-ss8m87frpo13sgfhiif171etat0uc8hj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaTZAR9Hol375im199ZtwQBpcogMTNp40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619371128320-ss8m87frpo13sgfhiif171etat0uc8hj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "619371128320-cf2m1m25juj7qlcarira0oags09p8h83.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kariakoo.connect.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
